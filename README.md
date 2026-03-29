@@ -1,7 +1,7 @@
 # YOLOv7E: Attention-Based Improved YOLOv7 for UAV Detection
 
 [![DOI](https://img.shields.io/badge/DOI-10.5220/0012391500003654-blue)](https://doi.org/10.5220/0012391500003654)
-![Conference](https://img.shields.io/badge/Conference-International%20Conference%202024-orange)
+
 
 # 📄 Conference Publication
 
